@@ -1,2 +1,2 @@
-#quanta
+# quanta
 > A basic file editor.
